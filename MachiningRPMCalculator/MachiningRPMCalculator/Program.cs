@@ -20,6 +20,7 @@ namespace SpeedCalculator
                 {
                     Console.WriteLine("Enter tool diameter. (in)");
                     string dia = Console.ReadLine();
+                    Console.WriteLine();
                     double diameter = Convert.ToDouble(dia);
                     double steelcspeed = 800;
                     double steelsspeed = 400;
@@ -40,6 +41,7 @@ namespace SpeedCalculator
                 {
                     Console.WriteLine("Enter tool diameter. (in)");
                     string dia = Console.ReadLine();
+                    Console.WriteLine();
                     double diameter = Convert.ToDouble(dia);
                     double alcspeed = 3200;
                     double alsspeed = 1600;
