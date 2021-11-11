@@ -5,3 +5,10 @@ C:\Users\leedj\source\repos\MachiningRPMCalculator\MachiningRPMCalculator\Machin
 C:\Users\leedj\source\repos\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\obj\Debug\MachiningRPMCalculator.csproj.CoreCompileInputs.cache
 C:\Users\leedj\source\repos\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\obj\Debug\MachiningRPMCalculator.exe
 C:\Users\leedj\source\repos\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\obj\Debug\MachiningRPMCalculator.pdb
+C:\Users\leedj\source\repos\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\bin\Debug\MachiningRPMCalculator.exe.config
+C:\Users\leedj\source\repos\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\bin\Debug\MachiningRPMCalculator.exe
+C:\Users\leedj\source\repos\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\bin\Debug\MachiningRPMCalculator.pdb
+C:\Users\leedj\source\repos\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\obj\Debug\MachiningRPMCalculator.csproj.AssemblyReference.cache
+C:\Users\leedj\source\repos\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\obj\Debug\MachiningRPMCalculator.csproj.CoreCompileInputs.cache
+C:\Users\leedj\source\repos\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\obj\Debug\MachiningRPMCalculator.exe
+C:\Users\leedj\source\repos\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\obj\Debug\MachiningRPMCalculator.pdb

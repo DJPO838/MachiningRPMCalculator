@@ -7,7 +7,7 @@ namespace SpeedCalculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("RPM Calculator 2022");
+            Console.WriteLine("RPM Calculator 2021");
             while (true)
             {
                 string steel = "2";
