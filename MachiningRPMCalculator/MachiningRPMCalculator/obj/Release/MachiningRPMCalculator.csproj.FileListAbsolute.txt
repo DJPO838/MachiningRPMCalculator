@@ -1,0 +1,7 @@
+C:\Users\leedj\source\repos\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\bin\Release\MachiningRPMCalculator.exe.config
+C:\Users\leedj\source\repos\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\bin\Release\MachiningRPMCalculator.exe
+C:\Users\leedj\source\repos\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\bin\Release\MachiningRPMCalculator.pdb
+C:\Users\leedj\source\repos\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\obj\Release\MachiningRPMCalculator.csproj.AssemblyReference.cache
+C:\Users\leedj\source\repos\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\obj\Release\MachiningRPMCalculator.csproj.CoreCompileInputs.cache
+C:\Users\leedj\source\repos\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\obj\Release\MachiningRPMCalculator.exe
+C:\Users\leedj\source\repos\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\obj\Release\MachiningRPMCalculator.pdb
