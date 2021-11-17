@@ -13,12 +13,12 @@ namespace SpeedCalculator
                 string steel = "2";
                 string aluminum = "1";
                 Console.WriteLine();
-                Console.WriteLine("Enter material to cut. (aluminum = 1, steel = 2)");
+                Console.WriteLine("Enter material to cut. (Aluminum = 1, Steel = 2)");
                 string material = Console.ReadLine();
 
                 if (material == steel)
                 {
-                    Console.WriteLine("Enter tool diameter. (in)");
+                    Console.WriteLine("Enter tool diameter. (in.)");
                     string dia = Console.ReadLine();
                     Console.WriteLine();
                     double diameter = Convert.ToDouble(dia);
@@ -39,7 +39,7 @@ namespace SpeedCalculator
 
                 else if (material == aluminum)
                 {
-                    Console.WriteLine("Enter tool diameter. (in)");
+                    Console.WriteLine("Enter tool diameter. (in.)");
                     string dia = Console.ReadLine();
                     Console.WriteLine();
                     double diameter = Convert.ToDouble(dia);
@@ -59,7 +59,7 @@ namespace SpeedCalculator
                 }
                 else
                 {
-                    Console.WriteLine("Metal Spelled Wrong? Please try again.");
+                    Console.WriteLine("Metal spelled wrong? Please try again.");
                 }
             }
         }
