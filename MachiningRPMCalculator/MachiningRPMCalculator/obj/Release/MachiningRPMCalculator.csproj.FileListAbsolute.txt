@@ -5,3 +5,14 @@ C:\Users\leedj\source\repos\MachiningRPMCalculator\MachiningRPMCalculator\Machin
 C:\Users\leedj\source\repos\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\obj\Release\MachiningRPMCalculator.csproj.CoreCompileInputs.cache
 C:\Users\leedj\source\repos\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\obj\Release\MachiningRPMCalculator.exe
 C:\Users\leedj\source\repos\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\obj\Release\MachiningRPMCalculator.pdb
+C:\Users\leedj\Source\Repos\DJPO838\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\bin\Release\MachiningRPMCalculator.exe.config
+C:\Users\leedj\Source\Repos\DJPO838\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\bin\Release\MachiningRPMCalculator.exe
+C:\Users\leedj\Source\Repos\DJPO838\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\bin\Release\MachiningRPMCalculator.pdb
+C:\Users\leedj\Source\Repos\DJPO838\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\obj\Release\MachiningRPMCalculator.csproj.AssemblyReference.cache
+C:\Users\leedj\Source\Repos\DJPO838\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\obj\Release\MachiningRPMCalculator.csproj.CoreCompileInputs.cache
+C:\Users\leedj\Source\Repos\DJPO838\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\obj\Release\MachiningRPMCalculator.exe
+C:\Users\leedj\Source\Repos\DJPO838\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\obj\Release\MachiningRPMCalculator.pdb
+C:\Users\leedj\Source\Repos\DJPO838\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\bin\Release\MachiningRPMCalculator.exe.manifest
+C:\Users\leedj\Source\Repos\DJPO838\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\bin\Release\MachiningRPMCalculator.application
+C:\Users\leedj\Source\Repos\DJPO838\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\obj\Release\MachiningRPMCalculator.exe.manifest
+C:\Users\leedj\Source\Repos\DJPO838\MachiningRPMCalculator\MachiningRPMCalculator\MachiningRPMCalculator\obj\Release\MachiningRPMCalculator.application

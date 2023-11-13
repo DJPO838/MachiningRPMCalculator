@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MachiningRPMCalculator",
-    "\\MachiningRPMCalculator\\MachiningRPMCalculator"
+    "\\MachiningRPMCalculator"
   ],
-  "SelectedNode": "\\MachiningRPMCalculator\\MachiningRPMCalculator\\Program.cs",
+  "SelectedNode": "\\MachiningRPMCalculator\\MachiningRPMCalculator.sln",
   "PreviewInSolutionExplorer": false
 }
